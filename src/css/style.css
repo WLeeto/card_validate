@@ -1,0 +1,29 @@
+.cards-item img{
+    max-width: 60px;
+    max-height: 33px;
+}
+
+.cards li{
+    display: flex;
+    float: left;
+}
+
+.cards {
+    height: 25px;
+}
+
+.input_form {
+    margin: 10px 0 10px 10px;
+    padding-left: 40px;
+}
+
+.card_validate_main_container {
+    margin: 50px 0 50px 0;
+    border: 2px solid black;
+    max-width: 400px;
+    padding: 15px 0 15px 0;
+}
+
+.grayscale {
+    filter: grayscale(1);
+}
