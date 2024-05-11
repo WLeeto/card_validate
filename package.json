@@ -15,6 +15,9 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
+  "jest": {
+    "config": "jest.config.cjs"
+  },
   "author": "coursar",
   "license": "MIT",
   "devDependencies": {
